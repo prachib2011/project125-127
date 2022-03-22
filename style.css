@@ -16,3 +16,15 @@ body
     color: black;
     font-size:15px;
 }
+
+.play_button
+{
+    width: 130px ;
+    font-size: 25px ;
+}
+ 
+canvas
+{
+    border: 5px solid rgb(5, 59, 3);
+    border-radius: 45px;
+}
